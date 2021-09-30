@@ -1,0 +1,6 @@
+module Pods_Culturals {
+  umbrella header "Pods-Culturals-umbrella.h"
+
+  export *
+  module * { export * }
+}
